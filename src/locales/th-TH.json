@@ -14,7 +14,7 @@
   "plugins": "ปลั๊กอิน",
   "information": "รายละเอียด",
   "confirm": "ยืนยัน",
-  "snapshot": "ถ่ายภาพทันที",
+  "snapshot": "snapshot",
   "strategies": "กลยุทธ์(s)",
   "strategiesPage": "กลยุทธ์",
   "space": "Space",
@@ -157,7 +157,7 @@
   "proposals": {
     "header": "ข้อเสนอ",
     "new": "ข้อเสนอใหม่",
-    "noProposals": "ที่นี่ยังไม่มีข้อเสนอ!",
+    "noProposals": "ยังไม่มีข้อเสนอ!",
     "states": {
       "all": "ทั้งหมด",
       "core": "ส่วนกลาง",
@@ -207,7 +207,7 @@
     "youDidIt": "คุณทำได้แล้ว!",
     "copied": "ดำเนินการคัดลอกเรียบร้อย!",
     "proposalDeleted": "ดำเนินการลบข้อเสนอเรียบร้อย",
-    "yourIsIn": "{0} ของคุณอยู่ข้างใน!",
+    "yourIsIn": "{0} เรียบร้อยแล้ว!",
     "somethingWentWrong": "ขออภัย! มีความผิดพลาดบางอย่างเกิดขึ้น"
   },
   "explore": {
@@ -216,7 +216,7 @@
     "addNetwork": "เพิ่มเครือข่าย",
     "createPlugin": "สร้างปลั๊กอิน",
     "strategies": "กลยุทธ์(s)",
-    "skins": "ผิว(s)",
+    "skins": "ธีม",
     "networks": "เครือข่าย(s)",
     "plugins": "ปลั๊กอิน(s)",
     "results": "ผลลัพธ์(s)"
