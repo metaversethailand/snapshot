@@ -20,8 +20,8 @@ const url = computed(() => {
 
   const url =
     getUrl(props.space.avatar) ??
-    `https://raw.githubusercontent.com/becoswap/snapshot-spaces/master/spaces/${spaceId.value}/${file}.png`;
-
+    `https://raw.githubusercontent.com/metaversethailand/snapshot-spaces/master/spaces/${spaceId.value}/${file}.png`;
+  console.log(url);
   return `https://worker.snapshot.org/mirror?img=${encodeURIComponent(url)}`;
 });
 
