@@ -41,7 +41,7 @@ export function useApp() {
 
   async function getStrategies() {
     const strategiesObj: any = await fetch(
-      'https://snapshot-scope.herokuapp.com/api/strategies'
+      'https://raw.githubusercontent.com/metaversethailand/snapshot/main/strategies.json'
     ).then(res => res.json());
     strategies.value = strategiesObj;
     return strategiesObj;
