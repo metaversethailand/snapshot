@@ -268,5 +268,8 @@
     "button_show": "Show me my collection",
     "success_claim": "Your POAP is on your address",
     "error_claim": "There was a problem minting the token"
+  },
+  "metaverse": {
+    "condition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae turpis eros. Sed justo urna, molestie non libero accumsan, ullamcorper tempus nunc. Mauris in euismod ex. Suspendisse non magna sem. Quisque dignissim tellus turpis. Proin fermentum velit tristique, vulputate augue in, pretium odio. Suspendisse eu massa et ipsum venenatis posuere vel vitae dui. Cras porta nibh vel elit eleifend, facilisis tincidunt nibh ultricies. Maecenas malesuada nibh nulla, vel commodo ligula vestibulum eu. Mauris sagittis elit in lorem rhoncus, non rhoncus velit convallis. Duis a sapien metus."
   }
 }
