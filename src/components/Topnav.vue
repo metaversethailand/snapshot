@@ -65,7 +65,7 @@ onMounted(() => setTitle());
               class="d-inline-block d-flex flex-items-center"
               style="font-size: 24px; padding-top: 4px"
             >
-              snapshot
+              Metachain Voting
             </router-link>
           </div>
           <div :key="web3.account">
